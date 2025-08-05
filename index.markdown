@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## Don't learn, just use!
+# Don't learn, just use!
 
 Loqu is an AI-powered social platform for language learners.
 
